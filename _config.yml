@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+deploy:
+  type:git
+  repo:git@github.com:baiby1225/pinoblog.github.io.git
+  branch:master
